@@ -1,0 +1,14 @@
+
+class CfgSounds
+{
+class heart
+	{
+		name = "heart";
+		sound[] = {"\sounds\184619__kim-headlee__irregular-fast-heartbeat.ogg", 50, 1}; 
+		titles[] = {0,"You start feeling sick..."};
+	};
+};
+
+
+
+
