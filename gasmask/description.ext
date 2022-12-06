@@ -1,0 +1,14 @@
+class CfgSounds
+{
+	class gasmasksound
+	{
+		name = "gasmasksound";
+		sound[] = {"\sounds\87557__daveofdefeat2248__gasmask.wss", 10, 1};
+		titles[] = {};
+	};
+
+};
+
+
+
+
